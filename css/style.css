@@ -161,7 +161,6 @@ body {
     .data {
         display: flex;
         flex-flow: row;
-        
     }
     
     .data li {
