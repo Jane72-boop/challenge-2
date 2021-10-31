@@ -38,6 +38,10 @@ body {
     width: 100%;
 }
 
+.desktop {
+    display: none;
+}
+
 .info {
     width: 100%;
     padding: 2em;
@@ -147,5 +151,13 @@ body {
     .mainImg img {
         width: 100%;
         vertical-align: top;
+    }
+
+    .desktop {
+        display: block;
+    }
+
+    .mobile {
+        display: none;
     }
 }
